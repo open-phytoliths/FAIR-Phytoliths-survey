@@ -1,6 +1,6 @@
 # survey
 
-This repository contains anaonimysed data collected with the community survey on FAIR practices within the phytolith community.
+This repository contains anonymised data collected through the community survey on FAIR practices within the phytolith community.
 
-It also conteins the R code used for the data analysis.
+It also contains the R code used for data analysis.
 

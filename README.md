@@ -11,7 +11,9 @@ For further details about the **FAIR Phytolith Project**, please see our [websit
   * [Raw data](https://github.com/open-phytoliths/survey/blob/main/Survey-original.csv)
   * [Cleaned data](https://github.com/open-phytoliths/survey/blob/main/Survey-clean.csv)
 * [R code used for data analysis](https://github.com/open-phytoliths/survey/blob/main/Survey-analysis.r).
-* Survey questions 
+* Survey questions
+  * [Part 1 - anonymous survey](https://github.com/open-phytoliths/survey/blob/main/FAIR-Phytoliths-Community%20Survey_Part%201.pdf).
+  * [Part 2 - survey for community contact]().  
 
 ## Funding
 

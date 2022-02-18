@@ -13,7 +13,7 @@ For further details about the **FAIR Phytolith Project**, please see our [websit
 * [R code used for data analysis](https://github.com/open-phytoliths/survey/blob/main/Survey-analysis.r).
 * Survey questions
   * [Part 1 - anonymous survey](https://github.com/open-phytoliths/survey/blob/main/FAIR-Phytoliths-Community%20Survey_Part%201.pdf).
-  * [Part 2 - survey for community contact]().  
+  * [Part 2 - survey for community contact](https://github.com/open-phytoliths/survey/blob/main/FAIR-Phytoliths-Community%20Survey_Part%202.pdf).  
 
 ## Funding
 

@@ -1,4 +1,4 @@
-# FAIR Phytolith Project - Phytolith Community Survey
+# [WIP] - FAIR Phytolith Project - Phytolith Community Survey
 
 ## This repository contains the data and metadata of the Phytolith Community Survey conducted from May 2021 to December 2021 as part of the FAIR Phytoliths Project. 
 
